@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686870582804",
+    "project_id": "falappfb-e8ea8",
+    "storage_bucket": "falappfb-e8ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686870582804:android:d720aefdbb96263bc27901",
+        "android_client_info": {
+          "package_name": "com.example.myfall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686870582804-v9hef1hpondqgks55r6792j945f8rncf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpg0BQRTs5eo-n7BhPPpinpIuFQ06Qm5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686870582804-v9hef1hpondqgks55r6792j945f8rncf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
